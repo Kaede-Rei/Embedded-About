@@ -1,0 +1,67 @@
+.\objects\tasks.o: ..\FreeRTOS\src\tasks.c
+.\objects\tasks.o: D:\Keil 5--C51\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\tasks.o: D:\Keil 5--C51\ARM\ARMCC\Bin\..\include\string.h
+.\objects\tasks.o: ..\__MAINCODE__\main.h
+.\objects\tasks.o: ..\Support_Drive\stm32f10x.h
+.\objects\tasks.o: ..\Support_Drive\core_cm3.h
+.\objects\tasks.o: D:\Keil 5--C51\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tasks.o: ..\Support_Drive\system_stm32f10x.h
+.\objects\tasks.o: ..\User\stm32f10x_conf.h
+.\objects\tasks.o: ..\Library\stm32f10x_adc.h
+.\objects\tasks.o: ..\Support_Drive\stm32f10x.h
+.\objects\tasks.o: ..\Library\stm32f10x_bkp.h
+.\objects\tasks.o: ..\Library\stm32f10x_can.h
+.\objects\tasks.o: ..\Library\stm32f10x_cec.h
+.\objects\tasks.o: ..\Library\stm32f10x_crc.h
+.\objects\tasks.o: ..\Library\stm32f10x_dac.h
+.\objects\tasks.o: ..\Library\stm32f10x_dbgmcu.h
+.\objects\tasks.o: ..\Library\stm32f10x_dma.h
+.\objects\tasks.o: ..\Library\stm32f10x_exti.h
+.\objects\tasks.o: ..\Library\stm32f10x_flash.h
+.\objects\tasks.o: ..\Library\stm32f10x_fsmc.h
+.\objects\tasks.o: ..\Library\stm32f10x_gpio.h
+.\objects\tasks.o: ..\Library\stm32f10x_i2c.h
+.\objects\tasks.o: ..\Library\stm32f10x_iwdg.h
+.\objects\tasks.o: ..\Library\stm32f10x_pwr.h
+.\objects\tasks.o: ..\Library\stm32f10x_rcc.h
+.\objects\tasks.o: ..\Library\stm32f10x_rtc.h
+.\objects\tasks.o: ..\Library\stm32f10x_sdio.h
+.\objects\tasks.o: ..\Library\stm32f10x_spi.h
+.\objects\tasks.o: ..\Library\stm32f10x_tim.h
+.\objects\tasks.o: ..\Library\stm32f10x_usart.h
+.\objects\tasks.o: ..\Library\stm32f10x_wwdg.h
+.\objects\tasks.o: ..\Library\misc.h
+.\objects\tasks.o: ..\FreeRTOS\include\FreeRTOS.H
+.\objects\tasks.o: D:\Keil 5--C51\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\tasks.o: ..\FreeRTOS\src\FreeRTOSConfig.h
+.\objects\tasks.o: ..\FreeRTOS\include\projdefs.h
+.\objects\tasks.o: ..\FreeRTOS\include\portable.h
+.\objects\tasks.o: ..\FreeRTOS\include\deprecated_definitions.h
+.\objects\tasks.o: ..\FreeRTOS\port\portmacro.h
+.\objects\tasks.o: ..\FreeRTOS\include\mpu_wrappers.h
+.\objects\tasks.o: ..\FreeRTOS\include\task.h
+.\objects\tasks.o: ..\FreeRTOS\include\list.h
+.\objects\tasks.o: ..\FreeRTOS\include\queue.h
+.\objects\tasks.o: ..\FreeRTOS\include\semphr.h
+.\objects\tasks.o: ..\FreeRTOS\include\event_groups.h
+.\objects\tasks.o: ..\FreeRTOS\include\timers.h
+.\objects\tasks.o: ..\FreeRTOS\Users\StaticMemoryTask.h
+.\objects\tasks.o: ..\FreeRTOS\Users\DynamicMemoryTask.h
+.\objects\tasks.o: ..\System\Delay.h
+.\objects\tasks.o: .\control\controla.h
+.\objects\tasks.o: .\control\controlb.h
+.\objects\tasks.o: .\control\controlc.h
+.\objects\tasks.o: .\control\controld.h
+.\objects\tasks.o: .\control\controle.h
+.\objects\tasks.o: .\motor\Motors.h
+.\objects\tasks.o: .\motor\Motorx.h
+.\objects\tasks.o: .\motor\motory.h
+.\objects\tasks.o: .\Serial\Serial.h
+.\objects\tasks.o: D:\Keil 5--C51\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\tasks.o: .\servo\servoab.h
+.\objects\tasks.o: .\servo\servoc.h
+.\objects\tasks.o: .\servo\PWMC.h
+.\objects\tasks.o: .\servo\PWMAB.h
+.\objects\tasks.o: .\LightSensor\LightSensor.h
+.\objects\tasks.o: .\LED\LED.h
+.\objects\tasks.o: ..\FreeRTOS\include\stack_macros.h
